@@ -1,0 +1,19 @@
+body
+{
+    background-color:red;
+    padding:0%;
+    margin:0%
+}
+#container
+{
+    display:flex;
+    flex-direction: row;
+}
+.box
+{
+    padding: 1%;
+    margin: 5%;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5%;
+}
