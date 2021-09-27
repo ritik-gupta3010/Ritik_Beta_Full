@@ -1,0 +1,31 @@
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: salmon;
+}
+.item
+{
+    display: inline-block;
+}
+.item li 
+{
+    display: inline-block;
+}
+.item li a
+{
+    font-size: 35px;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+}
+.img
+{
+    justify-content: center;
+    text-align: center;
+}
