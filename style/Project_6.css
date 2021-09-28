@@ -17,3 +17,12 @@ body
     background-color: white;
     border-radius: 5%;
 }
+a
+{
+    justify-content: center;
+    padding:4%;
+    margin-left: 25%;
+    border: 2px solid green;
+    text-decoration: none;
+
+}
