@@ -16,10 +16,10 @@ h1
 }
 .box
 {
-    padding: 3%;
-    margin: 1%;
+    padding: 1%;
+    margin: 5%;
     border: 2px solid white;
-    background-color: yellow;
+    background-color: white;
     border-radius: 5%;
 }
 a
